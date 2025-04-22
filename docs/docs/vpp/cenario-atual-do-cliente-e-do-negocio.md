@@ -7,6 +7,7 @@ O projeto surgiu após percepção que existe uma oportunidade real no mercado a
 Além disso, a ausência de um sistema eficiente compromete o acompanhamento adequado das tarefas (popularmente ditado como follow-up), resultando em baixa eficiência operacional e falhas na comunicação entre as equipes envolvidas. Esses fatores impactam diretamente a produtividade e dificultam a visualização do andamento geral das atividades, principalmente no que diz respeito ao controle financeiro dos projetos.
 Para representar visualmente os principais fatores que contribuem para esses desafios, utilizou-se o Diagrama de Ishikawa, conforme apresentado a seguir, com o objetivo de facilitar a análise da causa-raiz do problema identificado e apoiar na construção de uma solução mais alinhada às necessidades reais do mercado.
 Nesse sentido, o projeto está alinhado à necessidade da Extra Software, que visa reduzir prejuízos relacionados a fatores como produtividade e gestão interna dentro da empresa. 
+![Diagrama de Ishikawa](../assets/ishikawa.jpg)
 
 ## Desafios do Projeto 
 Entre os principais desafios enfrentados pelo projeto, destacam-se:
@@ -16,11 +17,17 @@ Desafio operacional: Com recursos limitados, tanto financeiros quanto humanos, a
 
 ## Segmentação de Clientes
 Os usuários finais da solução da Extra Software são profissionais que atuam diretamente no gerenciamento e execução de projetos, com perfil técnico e conhecimento em tecnologia da informação.
-Os principais perfis de usuários incluem:
-Gestores de projetos
-* Responsáveis por acompanhar o andamento de múltiplas demandas, organizar tarefas e supervisionar a execução de atividades. Costumam ter experiência em ferramentas digitais e utilizam os dados do sistema para tomar decisões estratégicas e garantir a eficiência da equipe.
+Os principais perfis de usuários incluem: </br>
+### Gestores de projetos
+<ul>
+<li>Responsáveis por acompanhar o andamento de múltiplas demandas, organizar tarefas e supervisionar a execução de atividades. Costumam ter experiência em ferramentas digitais e utilizam os dados do sistema para tomar decisões estratégicas e garantir a eficiência da equipe.</li>
+</ul>
 
-
-Funcionários técnicos
- Profissionais que atuam diretamente nos projetos e utilizam o sistema para registrar, atualizar e acompanhar tarefas, prazos e informações financeiras relacionadas à sua atuação. Possuem conhecimento técnico intermediário ou avançado, o que facilita a adoção de sistemas de gestão mais completos.
+### Funcionários técnicos
+<ul>
+<li>
+Profissionais que atuam diretamente nos projetos e utilizam o sistema para registrar, atualizar e acompanhar tarefas, prazos e informações financeiras relacionadas à sua atuação. Possuem conhecimento técnico intermediário ou avançado, o que facilita a adoção de sistemas de gestão mais completos.
+</li>
+</ul>
 Esses usuários, em geral, têm entre 25 e 45 anos e estão acostumados com ferramentas digitais no ambiente de trabalho. Valorizam soluções que integrem diferentes aspectos do projeto — como tarefas, prazos e finanças — de forma clara, organizada e eficiente.
+
